@@ -1,9 +1,9 @@
-# Full Name 
+Ajay kumar
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
-
+>I am a passionate Mern Stack developer with greate problem solving skills and I have solved around 50+ problems in 
+leetcode . Also i had developed a ecommerce application with online payment integration using razorpay
 
 ## Portfolio Highlights
 
@@ -11,8 +11,8 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **swift cart**  | 1  It is an ecommerce application with payment                             | [Hosted Link 1]((https://www.swiftcartss.shop/))    | [Repo Link 1]((https://github.com/AJU-eng/SWIFT-CART.git))             |
+| **Weather App**  | I  have done this project using graphql                                   | [Hosted Link 2](https://example.com)    | [Repo Link 2]((https://github.com/AJU-eng/weather-App.git))             |
 
 #### Leadership and Influence:
 
