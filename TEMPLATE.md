@@ -11,8 +11,8 @@ leetcode . Also i had developed a ecommerce application with online payment inte
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **swift cart**  | 1  It is an ecommerce application with payment                             | [Hosted Link 1](https://www.swiftcartss.shop/)    | [Repo Link 1]((https://github.com/AJU-eng/SWIFT-CART.git))             |
-| **Weather App**  | I  have done this project using graphql                                   | [Hosted Link 2](https://example.com)    | [Repo Link 2]((https://github.com/AJU-eng/weather-App.git))             |
+| **swift cart**  |  It is an ecommerce application with payment                             | [Hosted Link 1](https://www.swiftcartss.shop/)    | [Repo Link 1](https://github.com/AJU-eng/SWIFT-CART.git)            |
+| **Weather App**  | I  have done this project using graphql                                   | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/AJU-eng/weather-App.git)          |
 
 #### Leadership and Influence:
 
